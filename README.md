@@ -49,5 +49,6 @@ Many have studied this data to showcase the evolution of mental health as well a
 ## Milestone 2
 The milestone 2 is in the ziped document. To lunch the website, click on site.html.
 ## Milestone 3
-open milstone3.zip open site.html on vscode and run the following comand and then open the website localy 
-run python3 -m http.server 8000
+open milstone3.zip open site.html on vscode and run the following comand : 
+python3 -m http.server 8000
+and then open the website locally
